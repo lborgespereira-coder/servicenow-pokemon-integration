@@ -50,5 +50,5 @@ Documentar os pontos de melhoria é parte do processo — aqui estão os que já
 
 ## Autor
 
-Projeto desenvolvido por Borges como parte de estudos práticos na plataforma ServiceNow, durante transição de carreira de Logística para Tecnologia.
+Projeto desenvolvido por Lucas Borges como parte de estudos práticos na plataforma ServiceNow, durante transição de carreira de Logística para Tecnologia.
 
