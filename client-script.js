@@ -53,7 +53,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
             }
             //preencher campos
             g_form.setValue('u_hp', hp);
-            g_form.setValue('u_atack', attack);
+            g_form.setValue('u_attack', attack);
             g_form.setValue('u_defense', defense);
             g_form.setValue('u_speed', speed);
         
